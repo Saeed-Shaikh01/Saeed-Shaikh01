@@ -71,6 +71,7 @@ Fun Fact:
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:f23ari69@aror.edu.pk![Gmail](https://img.shields.io/badge/Gmail-f23ari69%40aror.edu.pk-EA4335?style=for-the-badge&logo=gmail&logoColor=white))
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saeed-Shaikh01)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1G1kDim373/)
 
 </div>
 
