@@ -2,10 +2,10 @@
 <h3 align="center">Senior Data Scientist & ML Engineer | Python · Deep Learning · NLP</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/www.linkedin.com/in/muhammad-saeed-04a278380>
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:f23ari69@aror.edu.pk">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://kaggle.com/YOUR_KAGGLE">
