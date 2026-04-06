@@ -117,7 +117,7 @@ Fun Fact:
 
 | # | Project | Description | Tech | Status |
 |:---:|:---|:---|:---|:---:|
-| 🇵🇰 | **[Urdu Fake News Detector](https://github.com/Saeed-Shaikh01)** | Detect fake Urdu news using NLP. Almost no one in Pakistan built this! | `XLM-RoBERTa` `HuggingFace` `Streamlit` | 🔨 Building |
+| 🇵🇰 | **[Urdu Fake News Detector](https://github.com/Saeed-Shaikh01)** | Detect fake Urdu news using NLP. Almost some peoples in Pakistan built this! | `XLM-RoBERTa` `HuggingFace` `Streamlit` | 🔨 Building |
 | 🏥 | **[Disease Prediction System](https://github.com/Saeed-Shaikh01)** | Predict diabetes & heart disease from patient data using ML | `Scikit-learn` `Pandas` `Streamlit` | 🔨 Building |
 | 🤖 | **[PDF Chatbot with LLM](https://github.com/Saeed-Shaikh01)** | Chat with any PDF document using LangChain + RAG pipeline | `LangChain` `OpenAI` `FAISS` `Streamlit` | 📅 Planned |
 | 😊 | **[Face Emotion Recognition](https://github.com/Saeed-Shaikh01)** | Real-time emotion detection from webcam using CNN | `TensorFlow` `OpenCV` `CNN` | 📅 Planned |
