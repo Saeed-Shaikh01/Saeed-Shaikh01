@@ -35,23 +35,25 @@ Semester : 6th
 Location : Ghotki, Sindh, Pakistan
 
 Current Projects:
-  - Urdu Fake News Detector  (NLP + HuggingFace)
-  - Disease Prediction System (ML + Streamlit)
-  - PDF Chatbot               (LangChain + RAG)
+  - AI Grammar & Translator Assistant (NLP + API + GUI)
+  - Urdu Fake News Detection System   (ML + NLP + URL Analysis)
+  - Job Application Portal            (Flask + SQLAlchemy)
+  - AI Mood Music Player              (Computer Vision + ML)
 
 Currently Learning:
-  - HuggingFace Transformers
-  - RAG & Vector Databases
-  - MLOps & Model Deployment
+  - Transformers & HuggingFace
+  - Retrieval-Augmented Generation (RAG)
+  - Web Scraping & Real-time Data Handling
+  - Model Deployment (Flask / Streamlit)
 
 Ask Me About:
-  - Machine Learning pipelines
-  - NLP for Urdu language
-  - Building AI web apps
+  - Machine Learning & NLP Projects
+  - Python (Pandas, Tkinter, APIs)
+  - Building AI-based Applications with GUI
 
 Fun Fact:
-  I run a real bike spare parts shop
-  and built its full website using AI!
+  I manage a bike spare parts business 
+  and built its complete website using AI tools!
 ```
 
 - 🔭 Currently building **Urdu Fake News Detector** — unique NLP project for Pakistan
